@@ -1,0 +1,6 @@
+{
+  "name": "Francisco Filho Advocacia",
+  "description": "Site oficial e dinâmico de Francisco Filho Advocacia em Ceilândia - DF, com áreas de atuação jurídica e sistema de agendamento de consultas via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
